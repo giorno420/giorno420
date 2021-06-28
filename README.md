@@ -23,7 +23,7 @@
 
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
-       <img src="https://cdn.discordapp.com/avatars/587539085439008780/a_7022f99dca264ec2df37f065f7d0d323.png?size=19px" width="19px " style="text-align:center" align="center">
+       &nbsp;&nbsp;
        <a href="https://discord.com/users/587539085439008780">Discord: giorno#0001</a>
   <br>
     
