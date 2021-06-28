@@ -1,7 +1,7 @@
 <div>
   <p align="center">
     <!-- <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="30%"> -->
-    <h1 align="center" >Peter's Profile</h1>
+    <h1 align="center" >My profile</h1>
     <br>
     <div align="left">
    Hey I'm Giorno, I like technology and programming. I'm mostly experienced with Python and I'm currently learning Java. I have a lot of experience with Discord bots and dashboards, so if you ever need one, hit me up.
