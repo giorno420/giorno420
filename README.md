@@ -3,7 +3,7 @@
     <h1 align="center" >My profile</h1>
     <br>
     <div align="left">
-   Hey I'm Giorno, I like programming, coding Minecraft plugins in Python (no im not insane), and playing games. I'm mostly experienced with Python and I'm currently learning JavaScript. I have a lot of experience with Discord bots and dashboards, so if you ever need one, hit me up.
+   Salutations. I'm mostly experienced with Python, Java and I'm currently learning JavaScript. I have a lot of experience with Discord bots and dashboards, so if you ever need one, hit me up.
     </div>
   </p>
   
