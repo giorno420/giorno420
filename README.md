@@ -4,7 +4,7 @@
     <h1 align="center" >My profile</h1>
     <br>
     <div align="left">
-   Hey there! I'm Giorno. I'm mostly experienced with Python, Java and basic JavaScript with some frameworks. I have a lot of experience with Discord bots and dashboards, so if you ever need one, hit me up.
+   Hey there! I'm Giorno. I'm mostly experienced with Python, Java and basic JavaScript with some frameworks. I have a lot of experience with Discord bots and dashboards and Minecraft plugins, so if you ever need one, hit me up.
     </div>
   </p>
   
