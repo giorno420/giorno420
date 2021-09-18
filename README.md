@@ -46,9 +46,7 @@
   <p align="center">
     <a href="https://mysql.org" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="https://mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="https://sqlite.org" target="_blank"><img alt="SQLite3" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-    <a href="https://mariadb.org" target="_blank"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
     </p>
   </div>
   
