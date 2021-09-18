@@ -40,7 +40,7 @@
   
   
   <div>
-  <h3 align="center">Databases languages I use</h3>
+  <h3 align="center">Databases I use</h3>
   <p align="center">
     <a href="https://mysql.org" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
