@@ -1,11 +1,9 @@
 
 <div>
   <p align="center">
-    <h1 align="center" >My profile</h1>
+    <h1 align="center" >🗿🗿🗿🗿🗿</h1>
     <br>
-    <div align="left">
-   Hey there! I'm Giorno. I'm mostly experienced with Python, Java and basic JavaScript with some frameworks. I have a lot of experience with Discord bots and dashboards and Minecraft plugins, so if you ever need one, hit me up.
-    </div>
+
   </p>
   
  
@@ -65,7 +63,7 @@
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
        &nbsp;&nbsp;
-       <a href="https://discord.com/users/587539085439008780">Discord: giorno#0001</a>
+       <a href="https://discord.com/users/587539085439008780">Discord: giorno#0880</a>
   <br>
     
 </details>
