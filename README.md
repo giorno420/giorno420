@@ -1,14 +1,5 @@
 
 <div>
-  <p align="center">
-    <h1 align="center" >🗿🗿🗿🗿🗿</h1>
-    <br>
-
-  </p>
-  
- 
-  </div>
-<div>
   <h3 align="center">Languages I know<br></h3>
   <p align="center">
   <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -58,7 +49,7 @@
 </a>
 </p>
 </details>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giorno420&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
