@@ -49,7 +49,6 @@
 </a>
 </p>
 </details>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giorno420&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
