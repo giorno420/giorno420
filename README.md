@@ -1,5 +1,8 @@
 
 <div>
+  
+### Giorno
+Python and Java developer
   <h3 align="center">Languages I know<br></h3>
   <p align="center">
   <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
