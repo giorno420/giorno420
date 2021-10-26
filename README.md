@@ -2,7 +2,7 @@
 <div>
   
 ### Giorno
-Python and Java developer
+megamind
   <h3 align="center">Languages I know<br></h3>
   <p align="center">
   <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -24,9 +24,9 @@ Python and Java developer
     <a href="https://npm.org" target="_blank"><img alt="Node package manager" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     <a href="https://djangoproject.org" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="https://flask.palletsprojects.org" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
     <a href="https://fastapi.tiangolo.com" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
     <a href="https://threejs.org" target="_blank"><img alt="ThreeJS" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
+    <a href="https://jquery.org" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
     
     
 </p>
@@ -39,7 +39,7 @@ Python and Java developer
     <a href="https://mysql.org" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://sqlite.org" target="_blank"><img alt="SQLite3" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-    </p>
+    <a href="https://mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a></p>
   </div>
   
   
