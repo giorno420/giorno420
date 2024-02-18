@@ -2,7 +2,7 @@
 <div>
   
 ## hi
-I'm a highly experienced full-stack developer who is currently working on Minecraft plugins, learning DSP via C++ and learning C and C# in the process. I am also experienced in making web servers, APIs and Discord bots
+I'm a highly experienced full-stack developer who is currently working on Minecraft plugins, digital signal processing and Arduino related projects. I am also experienced in making web servers, APIs and Discord bots
 # Tech Stack:
 ## Databases
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -47,6 +47,7 @@ I'm a highly experienced full-stack developer who is currently working on Minecr
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino)
   
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
