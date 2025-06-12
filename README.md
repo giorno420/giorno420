@@ -62,6 +62,7 @@ I'm an experienced full-stack developer well versed with Minecraft plugins, digi
   <summary style="margin-bottom: 3px">Contact Me</summary>
        &nbsp;&nbsp;
        <a href="https://discord.com/users/587539085439008780">Discord: giorno#0880</a>
+      <a href="mailto:kj.konda@laetottenham.ac.uk" target="_blank">Email</a>
   <br>
     
 </details>
